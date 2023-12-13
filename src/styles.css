@@ -1,0 +1,14 @@
+
+.card img {
+  max-width: 100%;
+}
+
+.card div {
+  margin-top: 12px;
+}
+
+.text {
+  color: rgb(6, 73, 51);
+  font-size: 2rem;
+  text-align: center;
+}
